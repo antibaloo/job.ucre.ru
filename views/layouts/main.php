@@ -110,6 +110,7 @@ AppAsset::register($this);
   <script src="js/custom.js"></script>
 	<script src="https://bpm.ucre.ru/include/maskedInput/jquery.maskedinput.js"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<script src="/js/jquery.countdown.min.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
 			$('a[href*=\\#]').click(function(event){
@@ -151,8 +152,10 @@ AppAsset::register($this);
 	<!-- /Yandex.Metrika counter -->
 
 	<script>
+		$('#clock').countdown('2017/09/24').on('update.countdown', function(event) {
+       var $this = $(this).html(event.strftime(''+'<div><span>%-w</span>week%!w</div>'+'<div><span>%-d</span>day%!d</div>'+'<div><span>%H</span>hr</div>'+'<div><span>%M</span>min</div>'+'<div><span>%S</span>sec</div>'));
+     });
 		$(window).load(function () {
-			countDown(0,0,0,24,09,2017); 
 			var endDate=new Date(2017,08,24),	nowDate= new Date(); 
 			if (nowDate.getTime() > endDate.getTime()){
 				console.log("Время прошло!");

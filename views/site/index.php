@@ -19,6 +19,7 @@ $this->title = 'Работа в Едином центре недвижимост
               <li>Способен учиться новому?</li>
               <li>Готов много работать?</li>
               <li>Желаешь зарабатывать от 50000 руб. в месяц?</li>
+							<li><div id="clock"></div></li>
             </ol>
           </hgroup>
           <button class="openForm btn btn-hero btn-lg" role="button" data-toggle="modal" data-target="#ucreForm">ПРИСОЕДИНЯЙСЯ!</button>
@@ -761,7 +762,6 @@ $this->title = 'Работа в Едином центре недвижимост
       </div>
     </div>
   </footer>
-  <div id="mytimer" style="font-size: 17px; color: #333; line-height: 45px;"></div>
 	<!--/ Сообщение об успешной отправке формы /-->
 	<div id="ucreFormSuccess" class="modal fade">
 		<div class="modal-dialog">
