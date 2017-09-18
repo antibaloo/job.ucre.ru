@@ -19,8 +19,10 @@ $this->title = 'Работа в Едином центре недвижимост
               <li>Способен учиться новому?</li>
               <li>Готов много работать?</li>
               <li>Желаешь зарабатывать от 50000 руб. в месяц?</li>
-							<li><div id="clock"></div></li>
             </ol>
+						<br>
+						<h3>Резюме еще принимаются</h3>
+						<div id="clock"></div>
           </hgroup>
           <button class="openForm btn btn-hero btn-lg" role="button" data-toggle="modal" data-target="#ucreForm">ПРИСОЕДИНЯЙСЯ!</button>
         </div>
