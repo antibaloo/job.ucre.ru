@@ -112,13 +112,13 @@ AppAsset::register($this);
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script src="/js/jquery.countdown.min.js"></script>
 	<script type="text/javascript">
-		$(document).ready(function(){
+		/*$(document).ready(function(){
 			$('a[href*=\\#]').click(function(event){
 				event.preventDefault();
 				var target_top= $('a[name="'+this.href.split("#")[1]+'"]').offset().top;
 				$('html, body').animate({scrollTop:target_top}, 'slow');
 			});
-		});
+		});*/
 </script>
 	<!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
@@ -158,7 +158,6 @@ AppAsset::register($this);
 		$(window).load(function () {
 			var endDate=new Date(2017,08,24),	nowDate= new Date(); 
 			if (nowDate.getTime() > endDate.getTime()){
-				console.log("Время прошло!");
 				$(".openForm").each(function(){
 					$(this).removeAttr("data-target");
 					$(this).removeAttr("data-toggle");
