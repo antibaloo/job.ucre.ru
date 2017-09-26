@@ -154,3 +154,7 @@ Image credits: unsplash.com
     padding: 30px 0;
     border-bottom: 1px solid #fff;
 }
+img.faq{
+  padding-top: 10px;
+  padding-bottom: 5px;
+}

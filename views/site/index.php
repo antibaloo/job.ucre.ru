@@ -215,103 +215,146 @@ $this->title = 'Работа в Едином центре недвижимост
             <p class="sec-sub-title text-center">Они пришли в разное время, из разных специальностей, разного возраста и разные по характеру,<br> но здесь они все стали успешными.</p>
           </div>
         </div>
-        <!-- Section Header End -->
-        <div class="our-services">
-          <div class="row">
-            <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
-              <div class="service-box">
-                <div class="icon">
-                  <h3 align="center" style="background-color:#1099DC; color:#ffffff">Абалакова Анна</h3>
-                </div>
-                <p align="center">Руководитель отдела продаж №2</p>
-                <img src="img/manager/AAV1.jpg" alt="Custom Image">
-                <p align="center">В компании с 07.2014г. <br> Специальность до работы в недвижимости - Юрист.</p>
-                <p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px"> В Единый центр недвижимости я пришла устраиваться на должность юриста, но мне предложили попробовать себя в роли менеджера по работе с недвижимостью. Первое время не получалось, но опытные наставники помогли провести первые сделки. Я мама
-                  двоих детей. Начальная школа, садик ...были сомнения- " Смогу ли я совмещать все это с новой профессией?" Но все опасения были напрасны, работая менеджером по продажам есть возможность самому планировать свое рабочее время, что позволяет
-                  не только правильно выстраивать рабочие процессы , но и решать семейные вопросы. Вскоре сама стала наставником. И уже с 2015г. я стала руководитель группы. Сейчас активно формирую свою команду. Приходите и я помогу вам стать успешными!
-                </p>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
-              <div class="service-box">
-                <div class="icon">
-                  <h3 align="center" style="background-color:#1099DC; color:#ffffff">Коробко Олеся</h3>
-                </div>
-                <p align="center">Менеджер по работе с покупателями</p>
-                <img src="img/manager/KOF1.png" alt="Custom Image">
-                <p align="center">В компании с 01.2015г. <br>Специальность до работы в недвижимости - Фитнес-тренер.</p>
-                <p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
-                  Имея два педагогических образования: биолог и психолог. Привыкшую к свободе, творчеству, спорту меня больше привлекала активная и интересная работа. Продажа и презентация товара доставляли мне огромное удовольствие. Я считаю, что самый важный инструмент
-                  в продажах - это общение с человеком в ненавязчивой и дружелюбной обстановке, понимание его желаний и потребностей, многие клиенты сомневаются в тех или иных вопросах, а в диалоге мы вместе находим решение и ответ на данный вопрос! Придя
-                  работать в Единый центр недвижимости, попала к очень хорошему наставнику и руководителю группы Абалаковой Анне, я училась у нее и у других, стараясь ничего не упустить из предложенной программы обучения и занимаясь самостоятельно. Спустя
-                  первый месяц - у меня первая сделка! В нашей работе главное интерес и уверенность в том, что я могу все!
-                </p>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
-              <div class="service-box">
-                <div class="icon">
-                  <h3 align="center" style="background-color:#1099DC; color:#ffffff">Шемякина Надежда</h3>
-                </div>
-                <p align="center">Руководитель отдела продаж №1</p>
-                <img src="img/manager/ShNA1.png">
-                <p align="center">В компании с 07.2013г. <br>Специальность до работы в недвижимости - Юрист.</p>
-                <p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
-                  В недвижимость я пришла работать не имея опыта. Работаю в компании “Единый центр недвижимости” более 4 лет. свою деятельность начала с работы менеджером по недвижимости, затем стала наставником для начинающих специалистов. После того, как я получила опыт
-                  и определенный багаж знаний - меня назначили руководителем группы. В начале моей карьеры со всеми сложностями мне помогла справиться мой наставник. Поэтому я желаю всем новым специалистам обязательно прислушиваться к мнению наставников,
-                  иметь терпение и стараться идти вперед, несмотря на все сложности и преграды.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".1s">
-              <div class="service-box">
-                <div class="icon">
-                  <h3 align="center" style="background-color:#1099DC; color:#ffffff">Горшкова Любовь</h3>
-                </div>
-                <p align="center">Менеджер по работе с покупателями</p>
-                <img src="img/manager/GLA1.png">
-                <p align="center">В компании с 09.2015г. <br>Специальность до работы в недвижимости - Маркетолог.</p>
-                <p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
-                  Работать в компании начал с сентября 2015 года. Я выбрала компанию “Единый центр недвижимости”, потому что это известная и стабильная компания, где можно самостоятельно формировать свое личное время. Поначалу было сложно находить общий язык с клиентами.
-                  Поэтому приходилось часто обращаться за помощью к наставникам. Обучение, корпоративные тренинги дали мне уверенность в правильном выборе деятельности. Я думаю, что все проблемы разрешимы и все трудности можно со временем преодолеть.
-                  Новичкам желаю, а первую очередь, быть готовыми к активной работе и всегда стремиться к результату!
-                </p>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".1s">
-              <div class="service-box">
-                <div class="icon">
-                  <h3 align="center" style="background-color:#1099DC; color:#ffffff">Сафонова Марина</h3>
-                </div>
-                <p align="center">Ведущий менеджер по работе с покупателями</p>
-                <img src="img/manager/SMN.png" alt="Custom Image">
-                <p align="center">В компании с 02.2015г. <br>Специальность до работы в недвижимости - Старший менеджер по продажам.</p>
-                <p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
-                  До прихода в Единый центр недвижимости работала компании "Аскона". Стремление увеличить свой заработок, привело меня в Единый центр недвижимости, чему я сейчас очень рада. Работа в группе Надежды Шемякиной привела меня к успеху, под ее чутким руководство
-                  я делала первые шаги в новой профессии. Сейчас я сама уже наставник и помогаю навичкам быстро адаптироваться и делать первые сделки
-                </p>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".1s">
-              <div class="service-box">
-                <div class="icon">
-                  <h3 align="center" style="background-color:#1099DC; color:#ffffff">Пищугина Татьяна</h3>
-                </div>
-                <p align="center">Руководитель отдела продаж №3</p>
-                <img src="img/manager/PTV.jpg" alt="Custom Image">
-                <p align="center">В компании с 09.2014г. <br> Специальность до работы в недвижимости - Управляющий клубом/Менеджер по персоналу.</p>
-                <p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
-                  До работы с недвижимостью работала директором крупного магазина спорт-товаров федеральной сети, управляющим/менеджером по подбору персонала в спорт клубе «Тонус-клуб», т.е. был большой опыт в продажах товаров и услуг. В какой-то момент захотелось самостоятельно
-                  формировать рабочий график и управлять своим временем, увидела вакансию менеджера по работе с недвижимостью и решила попробовать свои силы в новом для себя деле. Не всё сразу получалось легко и гладко, но когда есть у кого спросить совета,
-                  к кому обратиться, все трудности преодолимы. Очень поддерживают в рабочем настрое внутренние тренинги и посещения Практических конференций. Сейчас я уже наставник и сама помогаю сделать первые шаги в новой профессии новичкам. Работа
-                  в недвижимости очень интересна и востребована. Приходите к нам и мы вместе будем нести радость людям.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
+        <div class="faq-grids">
+					<div class="col-md-4 col-sm-4 faq-grid faq-grid-1">
+						<div class="panel-group" id="story1" role="tablist" aria-multiselectable="true">
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab" id="story1-1">
+									<center>
+										<img class="faq" src="img/manager/AAV1.jpg">
+										<h4  class="panel-title asd">
+											<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#story1" href="#collapse1-1" aria-expanded="false" aria-controls="collapse1-1">Абалакова Анна <span class="glyphicon glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a>
+										</h4>
+									</center>
+								</div>
+                <div id="collapse1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="story1-1">
+									<div class="panel-body panel_text">
+										<p align="center">Руководитель отдела продаж №2</p>
+										<p align="center">В компании с 07.2014г. <br> Специальность до работы в недвижимости - Юрист.</p>
+										<p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px"> В Единый центр недвижимости я пришла устраиваться на должность юриста, но мне предложили попробовать себя в роли менеджера по работе с недвижимостью. Первое время не получалось, но опытные наставники помогли провести первые сделки. Я мама
+											двоих детей. Начальная школа, садик ...были сомнения- " Смогу ли я совмещать все это с новой профессией?" Но все опасения были напрасны, работая менеджером по продажам есть возможность самому планировать свое рабочее время, что позволяет
+											не только правильно выстраивать рабочие процессы , но и решать семейные вопросы. Вскоре сама стала наставником. И уже с 2015г. я стала руководитель группы. Сейчас активно формирую свою команду. Приходите и я помогу вам стать успешными!
+										</p>
+                  </div>
+								</div>
+							</div>
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab" id="story1-2">
+									<center>
+										<img class="faq" src="img/manager/GLA1.png">
+										<h4 class="panel-title asd">
+											<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#story1" href="#collapse1-2" aria-expanded="false" aria-controls="collapse1-2">Горшкова Любовь <span class="glyphicon glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a>
+										</h4>
+									</center>
+								</div>
+                <div id="collapse1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="story1-2">
+									<div class="panel-body panel_text">
+										<p align="center">Менеджер по работе с покупателями</p>
+										<p align="center">В компании с 09.2015г. <br>Специальность до работы в недвижимости - Маркетолог.</p>
+										<p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
+											Работать в компании начал с сентября 2015 года. Я выбрала компанию “Единый центр недвижимости”, потому что это известная и стабильная компания, где можно самостоятельно формировать свое личное время. Поначалу было сложно находить общий язык с клиентами.
+											Поэтому приходилось часто обращаться за помощью к наставникам. Обучение, корпоративные тренинги дали мне уверенность в правильном выборе деятельности. Я думаю, что все проблемы разрешимы и все трудности можно со временем преодолеть.
+											Новичкам желаю, а первую очередь, быть готовыми к активной работе и всегда стремиться к результату!
+										</p>
+                  </div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4 faq-grid faq-grid-2">
+						<div class="panel-group" id="story2" role="tablist" aria-multiselectable="true">
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab" id="story2-1">
+									<center>
+										<img class="faq" src="img/manager/KOF1.png">
+										<h4 class="panel-title asd">
+											<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#story2" href="#collapse2-1" aria-expanded="false" aria-controls="collapse2-1">Коробко Олеся <span class="glyphicon glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a>
+										</h4>
+									</center>
+								</div>
+                <div id="collapse2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="story2-1">
+									<div class="panel-body panel_text">
+										<p align="center">Менеджер по работе с покупателями</p>
+										<p align="center">В компании с 01.2015г. <br>Специальность до работы в недвижимости - Фитнес-тренер.</p>
+										<p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
+											Имея два педагогических образования: биолог и психолог. Привыкшую к свободе, творчеству, спорту меня больше привлекала активная и интересная работа. Продажа и презентация товара доставляли мне огромное удовольствие. Я считаю, что самый важный инструмент
+											в продажах - это общение с человеком в ненавязчивой и дружелюбной обстановке, понимание его желаний и потребностей, многие клиенты сомневаются в тех или иных вопросах, а в диалоге мы вместе находим решение и ответ на данный вопрос! Придя
+											работать в Единый центр недвижимости, попала к очень хорошему наставнику и руководителю группы Абалаковой Анне, я училась у нее и у других, стараясь ничего не упустить из предложенной программы обучения и занимаясь самостоятельно. Спустя
+											первый месяц - у меня первая сделка! В нашей работе главное интерес и уверенность в том, что я могу все!
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab" id="story2-2">
+									<center>
+										<img class="faq" src="img/manager/SMN.png">
+										<h4 class="panel-title asd">
+											<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#story2" href="#collapse2-2" aria-expanded="false" aria-controls="collapse2-2">Сафонова Марина <span class="glyphicon glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a>
+										</h4>
+									</center>
+								</div>
+                <div id="collapse2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="story2-2">
+									<div class="panel-body panel_text">
+										<p align="center">Ведущий менеджер по работе с покупателями</p>
+										<p align="center">В компании с 02.2015г. <br>Специальность до работы в недвижимости - Старший менеджер по продажам.</p>
+										<p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
+											До прихода в Единый центр недвижимости работала компании "Аскона". Стремление увеличить свой заработок, привело меня в Единый центр недвижимости, чему я сейчас очень рада. Работа в группе Надежды Шемякиной привела меня к успеху, под ее чутким руководство
+											я делала первые шаги в новой профессии. Сейчас я сама уже наставник и помогаю навичкам быстро адаптироваться и делать первые сделки
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4 faq-grid faq-grid-3">
+						<div class="panel-group" id="story3" role="tablist" aria-multiselectable="true">
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab" id="story3-1">
+									<center>
+										<img class="faq" src="img/manager/ShNA1.png">
+										<h4 class="panel-title asd">
+											<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#story3" href="#collapse3-1" aria-expanded="false" aria-controls="collapse3-1">Шемякина Надежда <span class="glyphicon glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a>
+										</h4>
+									</center>
+								</div>
+                <div id="collapse3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="story3-1">
+									<div class="panel-body panel_text">
+										<p align="center">Руководитель отдела продаж №1</p>
+										<p align="center">В компании с 07.2013г. <br>Специальность до работы в недвижимости - Юрист.</p>
+										<p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
+											В недвижимость я пришла работать не имея опыта. Работаю в компании “Единый центр недвижимости” более 4 лет. свою деятельность начала с работы менеджером по недвижимости, затем стала наставником для начинающих специалистов. После того, как я получила опыт
+											и определенный багаж знаний - меня назначили руководителем группы. В начале моей карьеры со всеми сложностями мне помогла справиться мой наставник. Поэтому я желаю всем новым специалистам обязательно прислушиваться к мнению наставников,
+											иметь терпение и стараться идти вперед, несмотря на все сложности и преграды.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab" id="story3-2">
+									<center>
+										<img class="faq" src="img/manager/PTV.jpg">
+										<h4 class="panel-title asd">
+											<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#story3" href="#collapse3-2" aria-expanded="false" aria-controls="collapse3-2">Пищугина Татьяна <span class="glyphicon glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a>
+										</h4>
+									</center>
+								</div>
+                <div id="collapse3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="story3-2">
+									<div class="panel-body panel_text">
+										<p align="center">Руководитель отдела продаж №3</p>
+										<p align="center">В компании с 09.2014г. <br> Специальность до работы в недвижимости - Управляющий клубом/Менеджер по персоналу.</p>
+										<p align="justify" style="background-color:#1099DC; color:#ffffff; text-indent:10px">
+											До работы с недвижимостью работала директором крупного магазина спорт-товаров федеральной сети, управляющим/менеджером по подбору персонала в спорт клубе «Тонус-клуб», т.е. был большой опыт в продажах товаров и услуг. В какой-то момент захотелось самостоятельно
+											формировать рабочий график и управлять своим временем, увидела вакансию менеджера по работе с недвижимостью и решила попробовать свои силы в новом для себя деле. Не всё сразу получалось легко и гладко, но когда есть у кого спросить совета,
+											к кому обратиться, все трудности преодолимы. Очень поддерживают в рабочем настрое внутренние тренинги и посещения Практических конференций. Сейчас я уже наставник и сама помогаю сделать первые шаги в новой профессии новичкам. Работа
+											в недвижимости очень интересна и востребована. Приходите к нам и мы вместе будем нести радость людям.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
       </div>
     </div>
   </section>
