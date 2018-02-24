@@ -750,7 +750,7 @@ $this->title = 'Работа в Едином центре недвижимост
           <div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
         </div>
         <div class="sec-sub-title text-center wow rubberBand animated" data-wow-duration="1000ms">
-          <p>Получите бесплатную консультацию позвонив по телефону <a style="color: black" href="tel:+79228299057">+7 (922) 829-90-57</a>, либо оставив заявку</p>
+          <p>Получите бесплатную консультацию позвонив по телефону <a style="color: black" href="tel:+79228299057">+7 (987) 847-92-92</a>, либо оставив заявку</p>
         </div>
         <div class="sec-sub-title text-center wow rubberBand animated" data-wow-duration="1000ms">
           <p>
@@ -780,7 +780,7 @@ $this->title = 'Работа в Едином центре недвижимост
         <div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
           <div class="footer-single">
             <h6>Наш адрес </h6>
-            <p>460000, г.Оренбург<br> ул.Советская, д.46, 3 этаж<br> Звоните нам<br><a href="tel:+79228299057">+7 (922) 829-90-57</a><br>Пишите нам info@ucre.ru</p>
+            <p>460000, г.Оренбург<br> ул.Советская, д.46, 3 этаж<br> Звоните нам<br><a href="tel:+79228299057">+7 (987) 847-92-92</a><br>Пишите нам info@ucre.ru</p>
           </div>
         </div>
         <div class="col-md-2 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">

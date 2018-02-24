@@ -152,11 +152,12 @@ AppAsset::register($this);
 	<!-- /Yandex.Metrika counter -->
 
 	<script>
-		$('#clock').countdown('2017/10/28').on('update.countdown', function(event) {
+		/*
+		$('#clock').countdown('2017/11/23').on('update.countdown', function(event) {
        var $this = $(this).html(event.strftime(''+'<div><span>%-w</span>week%!w</div>'+'<div><span>%-d</span>day%!d</div>'+'<div><span>%H</span>hr</div>'+'<div><span>%M</span>min</div>'+'<div><span>%S</span>sec</div>'));
      });
 		$(window).load(function () {
-			var endDate=new Date(2017,09,28),	nowDate= new Date(); 
+			var endDate=new Date(2017,10,23),	nowDate= new Date(); 
 			if (nowDate.getTime() > endDate.getTime()){
 				$(".openForm").each(function(){
 					$(this).removeAttr("data-target");
@@ -165,6 +166,7 @@ AppAsset::register($this);
 				});
 			}
 		});
+		*/
 		$(function(){
 			$("#inputPhone").mask("+7(999) 999-99-99");
 		});
