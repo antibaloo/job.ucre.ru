@@ -264,6 +264,7 @@ $this->title = 'Работа в Едином центре недвижимост
 					<div class="col-md-4 col-sm-4 faq-grid faq-grid-2">
 						<div class="panel-group" id="story2" role="tablist" aria-multiselectable="true">
 							<div class="panel panel-default">
+								<!--
 								<div class="panel-heading" role="tab" id="story2-1">
 									<center>
 										<img class="faq" src="img/manager/KOF1.png">
@@ -284,6 +285,7 @@ $this->title = 'Работа в Едином центре недвижимост
 										</p>
 									</div>
 								</div>
+								-->
 							</div>
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab" id="story2-2">
